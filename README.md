@@ -5,7 +5,7 @@ The code in HelloWorld.bf has been written in brainfuck, take your time understa
 Also, I have included a brainfuck interpreter made in python (https://github.com/techwithtim/Python-Brainfuck)
 to ease the pain of installing some brainfuck compiler.
 
-###Instructions to run the code
+### Instructions to run the code
 
 1 - Make sure Python 3+ is installed and is added to PATH
 
