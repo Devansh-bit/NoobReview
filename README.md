@@ -1,7 +1,7 @@
 # NoobReview
 The most complicated hello world
 
-The code in HelloWorld.bf has been written in brainfuck, take your time understanding it.
+The main code is in HelloWorld.bf. It has been written in brainfuck, take your time understanding it.
 Also, I have included a brainfuck interpreter made in python (https://github.com/techwithtim/Python-Brainfuck)
 to ease the pain of installing some brainfuck compiler.
 
